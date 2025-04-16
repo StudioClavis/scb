@@ -1,2 +1,3 @@
 # scb
 StudioClavisのAIを学ぼうとしている部員向けの指南書
+scbとはStudioClavis textBookの略である
