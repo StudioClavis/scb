@@ -1,0 +1,2 @@
+# scb
+StudioClavisのAIを学ぼうとしている部員向けの指南書
